@@ -1,6 +1,6 @@
 ### Hi there 👋, Jan Lars Austero
 #### Senior Remote Helpdesk | Aspiring Developer
-![Senior Remote Helpdesk | Aspiring Developer](
+
 
 
 Skills: EXPRESS JS / NODE / JS / MONGO / HTML / CSS / BOOTSTRAP
