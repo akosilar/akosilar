@@ -1,8 +1,7 @@
 ### Hi there 👋, Jan Lars Austero
 #### Senior Remote Helpdesk | Aspiring Developer
-![Senior Remote Helpdesk | Aspiring Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Senior Remote Helpdesk | Aspiring Developer](
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: EXPRESS JS / NODE / JS / MONGO / HTML / CSS / BOOTSTRAP
 
