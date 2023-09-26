@@ -3,7 +3,9 @@
 
 
 
-Skills: EXPRESS JS / NODE / JS / MONGO / HTML / CSS / BOOTSTRAP
+Skills: 
+  NODE.JS / EXPRESS.JS / MONGODB / PHP
+  HTML / CSS / BOOTSTRAP / JS
 
 - 🔭 I’m currently working on ePonger, a web application that table tennis clubs can use to manage their weekly league competition 
 - 🌱 I’m currently learning JS 
