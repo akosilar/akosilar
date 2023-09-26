@@ -1,5 +1,5 @@
 ### Hi there 👋, Jan Lars Austero
-#### Senior Remote Helpdesk | Aspiring Developer
+#### Aspring Web Developer
 
 
 
