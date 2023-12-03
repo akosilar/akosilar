@@ -7,6 +7,7 @@ Skills:
   
   HTML / CSS / BOOTSTRAP / JS
 
+- 💼 I'm currently a Jr. Web Developer at GrowthHive
 - 🔭 I’m currently working on ePonger, a web application that table tennis clubs can use to manage their weekly league competition 
 - 🌱 I’m currently learning JS and PHP
 
