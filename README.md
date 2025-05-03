@@ -1,5 +1,5 @@
 ### Hi there 👋, Jan Lars Austero
-#### Junior Web Developer
+#### Database Administrator
 
 
 Skills: 
