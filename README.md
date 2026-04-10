@@ -1,4 +1,4 @@
-### Hi there 👋, Jan Lars Austero
+### Hi there 👋, I'm Lars.
 #### Database Administrator
 
 
